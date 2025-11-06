@@ -1,0 +1,3 @@
+target/** linguist-vendored
+tests/** linguist-vendored
+app/** linguist-vendored
